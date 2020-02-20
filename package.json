@@ -1,0 +1,14 @@
+{
+  "name": "insomna-plugin-jsonapi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "insomnia": {
+    "name": "jsonapi",
+    "description": "Format JSON:API responses"
+  },
+  "dependencies": {
+    "kitsu-core": "^8.0.5"
+  },
+  "devDependencies": {}
+}
