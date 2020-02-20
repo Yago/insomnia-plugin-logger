@@ -1,5 +1,5 @@
 {
-  "name": "insomna-plugin-jsonapi",
+  "name": "insomnia-plugin-jsonapi",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
