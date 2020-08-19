@@ -9,7 +9,7 @@
   },
   "insomnia": {
     "name": "logger",
-    "description": "Log responses in DevTools"
+    "description": "Log response and response queries in DevTools"
   },
   "dependencies": {
     "jsonpath": "^1.0.2"
