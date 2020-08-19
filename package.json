@@ -8,8 +8,8 @@
     "url": "https://github.com/Yago/insomnia-plugin-jsonapi"
   },
   "insomnia": {
-    "name": "jsonapi",
-    "description": "Format JSON:API responses"
+    "name": "logger",
+    "description": "Log responses in DevTools"
   },
   "dependencies": {
     "kitsu-core": "^8.0.5"
